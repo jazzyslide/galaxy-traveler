@@ -1,3 +1,5 @@
+<img src="https://github.com/jazzyslide/galaxy-traveler/raw/master/galaxytraveler.png" width="500">
+
 # GalaxyTraveler（ギャラクシー・トラベラー）
 
 ## 概要	
