@@ -29,7 +29,9 @@
 ## カリキュラム構成
 - テキスト
 	- Vol.1（コアパッケージ）：宇宙空間にてキャラクター（宇宙船）を操作し、（あらかじめ手動で配置した）向かってくる障害物（岩）を避ける(Unity Basic, GameObject等)
-	- 【未実装】Vol.2a（追加パッケージ）：ぶつかる（衝突判定：障害物とキャラクターがぶつかったら終わり）(条件処理：Rigidbody, Collider等)
+		- https://github.com/jazzyslide/galaxy-traveler/tree/vol1core
+	- Vol.2a（追加パッケージ）：ぶつかる（衝突判定：障害物とキャラクターがぶつかったら終わり）(条件処理：Rigidbody, Collider等)
+		- https://github.com/jazzyslide/galaxy-traveler/tree/vol2a-collider
 	- 【未実装】vol.2b（追加パッケージ）：障害物の自動生成、ビームの出力(インスタンスの概念：Prefabなど)
 	- 【未実装】vol.2c（追加パッケージ）：衝突時に爆発する演出(細かい演出：Particleなど)
 	- 【未実装】vol.3（追加パッケージ）：ゲームコントロール（スコア・スタート・ゲームオーバー）(全体ゲームコントロール)

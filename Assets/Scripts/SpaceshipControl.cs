@@ -50,4 +50,10 @@ public class SpaceshipControl : MonoBehaviour {
 			}
 		}
 	}
+
+	//何かが衝突した時自分と相手を両方消す
+	void OnCollisionEnter(Collision collision){
+		Destroy(collision.gameObject);
+		Destroy(this.gameObject);
+	}
 }
